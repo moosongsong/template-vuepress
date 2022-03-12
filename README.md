@@ -19,3 +19,12 @@ vuepress는 yarn을 권장하고 있습니다.
 ```bash
 yarn build
 ```
+
+## 공식 문서
+
+https://vuepress.vuejs.org/
+
+
+## 배포 URL
+
+https://moosongsong.github.io/template-vuepress/
